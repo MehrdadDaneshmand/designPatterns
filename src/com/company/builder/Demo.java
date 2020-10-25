@@ -14,7 +14,7 @@ public class Demo {
         // (application code). That's because application knows better which
         // builder to use to get a specific product.
         CarBuilder builder = new CarBuilder();
-        director.constructSportsCar(builder);
+        director.constructSUV(builder);
 
         // The final product is often retrieved from a builder object, since
         // Director is not aware and not dependent on concrete builders and

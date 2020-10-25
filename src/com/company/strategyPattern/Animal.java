@@ -1,8 +1,5 @@
 package com.company.strategyPattern;
 
-import lombok.Getter;
-import lombok.Setter;
-
 public class Animal {
 
     private String name;

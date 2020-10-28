@@ -5,4 +5,9 @@ public class BigUFOEnemyShip extends UFOEnemyShip {
         setName("Big UFO Enemy Ship");
         setAmtDamage(40.0);
     }
+
+
+
+
+
 }
